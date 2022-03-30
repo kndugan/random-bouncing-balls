@@ -14,7 +14,7 @@ The balls will begin to move and bounce upon opening of the web browser window. 
 
 ## Roadmap of Future Improvements
 
-Future improvements will include having the balls change to random color each time they bounce off the parameter.
+Future improvements will include having the balls change to random colors each time they bounce off the parameter walls.
 
 ## Questions or Comments?
 
