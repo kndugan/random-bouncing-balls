@@ -2,25 +2,27 @@
 
 ## Description
 
-In this exercise, there is a progression of my JavaScript skills as I created a boundry for three separate balls to bounce independently at different speeds and at random angles. The movement patterns had to be designed to move within the parameters within the x and y axis.
+In this project, I've used JavaScript to create an area and boundry for three separate balls to bounce independently at different speeds and at random angles. The movement patterns are designed to have the balls move within the parameters randomly via the x and y axis.
+
+<img src="https://static1.squarespace.com/static/5b75fc7ea9e028d726dbaaa5/t/6243c4e4f000fa70cf7c056e/1648608484166/Balls+GitHub+Repo+Card+Template.png" width='400'/>
 
 The starter code was provided by MIT xPro.
 
 ## How to Run
 
-This is information someone would use to get started running your project on their machine.
+The balls will begin to move and bounce upon opening of the web browser window. There are not any additional instructions or steps for the user in order to run this program.
 
 ## Roadmap of Future Improvements
 
-This should be a few sentences describing what you plan to work on next in this repository. 2. License information: This should include information about the MIT license.
+Future improvements will include having the balls change to random color each time they bounce off the parameter.
 
 ## Questions or Comments?
 
-Connect with me on Twitter at <https://twitter.com/kristinedugan> or LinkedIn <https://linkedin.com/in/kristinedugan>
+Connect with me on [Twitter](https://twitter.com/kristinedugan) or [LinkedIn](https://linkedin.com/in/kristinedugan).
 
 ## License Information
 
-Some provided materials from the lecture videos and from assignment solutions are used in this project. Some implementations are derived from the provided materials of the course.
+Some implementations and solutions in this project are derived from the provided lectures and materials of MIT xPro's MERN Stack Bootcamp course.
 
 ### MIT License
 
